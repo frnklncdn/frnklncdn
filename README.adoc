@@ -1,15 +1,27 @@
 = 👋🏾 Saluton! Mi nombre es Franklin  👨🏿‍💻
+:description: Profesor Universitario de Informática | Entusiasta del software libre y la educación tecnológica.
+:revdate: 2026-06-20
+:icons: font
 
+*Profesor Universitario de Informática* | Entusiasta del software libre y la educación tecnológica.
 
-== Profesional
+---
 
-* *Profesor Universitario de Informática* 👨🏾‍🏫
+== 🌐 Sobre mí
 
-== Contacto
+- 🎓 Docente e investigador en el área de informática.
+- 💻 Apasionado por la programación, los sistemas operativos y las bases de datos.
+- 🌍 Hablo *español*.
+- 🛠️ Me encanta aprender y compartir conocimiento.
+
+---
+
+== 📫 Contacto
 
 https://x.com/frnklncdn[image:https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white[X]]
+link:https://github.com/frnklncdn[image:https://img.shields.io/github/followers/frnklncdn?label=Follow&style=social[GitHub Followers]]
 
-== Tecnologías
+== 🧰 Tecnologías que uso
 
 🚀 *Lenguajes*
 
@@ -20,24 +32,38 @@ image:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=
 image:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white[CSS3]
 image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript]
 
-📝 *IDEs/Editores*
+=== 📝 *IDEs/Editores*
 
 image:https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white[Vim]
 image:https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white[Obsidian]
 image:https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white[Visual Studio Code]
 
-⏳ *Control de Versiones*
+=== ⏳ *Control de Versiones*
 
 image:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white[Git]
 image:https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white[GitLab]
 image:https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white[GitHub]
 
-🗃️ *Base de Datos*
+=== 🗃️ *Base de Datos*
 
 image:https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white[MariaDB]
 
-💻 *Sistemas Operativos*
+=== 💻 *Sistemas Operativos*
 
 image:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black[Linux]
 image:https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white[Debian]
 image:https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white[Windows 11]
+
+---
+
+== 📊 Estadísticas de GitHub
+
+image:https://github-readme-stats.vercel.app/api?username=frnklncdn&show_icons=true&theme=radical[Estadísticas de GitHub, role="center"]
+
+image:https://github-readme-streak-stats.herokuapp.com/?user=frnklncdn&theme=radical[Racha de contribuciones, role="center"]
+
+---
+
+== 🙌 ¡Gracias por visitar!
+
+Si te interesa colaborar o tienes alguna pregunta, no dudes en contactarme.
